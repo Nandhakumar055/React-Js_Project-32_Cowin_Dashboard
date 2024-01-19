@@ -1,0 +1,18 @@
+.coverage-card-container {
+  background-color: #1c1c2b;
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  height: 100%;
+}
+.coverage-card-heading {
+  color: #cbd5e1;
+  font-size: 28px;
+  font-weight: 600;
+  font-family: 'Roboto';
+}
+
+.pie-chart-container {
+  width: 100%;
+  height: 100%;
+}
